@@ -2,6 +2,8 @@
 
 You should be able to replicate the solution and retrain all the models from [our inference kernel](https://www.kaggle.com/iezepov/wombat-inference-kernel) just by running all `train_*.py` scripts. One would need to put the input data and [the embeddings dataset](https://www.kaggle.com/iezepov/gensim-embeddings-dataset) to the `input` folder.
 
+`code/toxic` contains various utils that are used in `train_*` files.
+
 ## Outline of our final solution
 
 We ended up using a simple average ensemble of 33 models:
