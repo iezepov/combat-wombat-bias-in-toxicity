@@ -1,4 +1,4 @@
-# COMBAT WOMBAT Solution
+# COMBAT WOMBAT [4th place solution to the Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/leaderboard)
 
 You should be able to replicate the solution and retrain all the models from [our inference kernel](https://www.kaggle.com/iezepov/wombat-inference-kernel) just by running all `train_*.py` scripts. One would need to put the input data and [the embeddings dataset](https://www.kaggle.com/iezepov/gensim-embeddings-dataset) to the `input` folder.
 
